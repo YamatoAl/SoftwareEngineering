@@ -1,0 +1,12 @@
+Plants(从):產贺从从
+ 摸いΤhp(ネ㏑)water(だ)ground(║)
+  insect(甡挛秖)weeds(馒秖)growthRate(ネ)
+  status(篈)单把计–从穦Τ贺PlantsSpec(从摸)
+ –把计穦Τ癸莱set㎝getFunctionㄤいsetFunction惠浪琩赣把计砞﹚琌<0<0赣从Function斗肚false
+ roundChange()Functionノㄓ秈从把计跑笆穦肚せタ璽把计(ex:-3)–兜把计跑笆
+
+PlantsSpec(从摸):贺从从摸
+ 摸いΤPlantsい把计(琌Plants把计﹍)
+ ΤseedPrice㎝soldPrice–贺从㎝贺膀セ扳基
+ greenHouseType从琌惠璶放(0贺放-1ぃ惠璶放1ゲ斗贺放)
+ –贺把计常璶ΤgetFunction

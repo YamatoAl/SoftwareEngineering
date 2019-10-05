@@ -1,0 +1,4 @@
+作物種植模擬器 Version 0.1
+
+開啟PlantsMonitorSimulaton.bat開始遊戲
+若無法啟動請先刪除.class檔並開啟PMSCompiler.bat
